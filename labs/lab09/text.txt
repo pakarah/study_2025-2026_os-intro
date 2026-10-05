@@ -1,0 +1,8 @@
+
+qweme
+aliases
+alsa
+alternatives
+anaconda
+anacrontab
+wercapt
